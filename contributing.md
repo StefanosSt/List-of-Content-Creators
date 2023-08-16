@@ -6,4 +6,6 @@
 - Pull request title should include Category Name and the Name or Channel of creator.
   - Example: `Web/App Development -> TechWithTim`
 
+- Feel free to add a new category if you think it's needed on the pull request
+
 **PS**: If you like that, throw me a *Star*

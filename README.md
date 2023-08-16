@@ -1,4 +1,5 @@
 #### Please read [`contributing guidelines`](./contributing.md) if you want to contribute to this repository.
+#### If you want another Category or Table Column to be added perform a <i><u>Pull request</u></i> or open up an <i><u>issue</u></i>
 
 ## Table of Contents
 
