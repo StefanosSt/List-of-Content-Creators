@@ -26,6 +26,7 @@
 | Kevin | Kevin Powell | https://www.kevinpowell.co/ | css, css, css, css & css |
 | Lewis | CodingWithLewis | https://www.youtube.com/c/CodingwithLewis | roadmaps, youtube , programming trends |
 | Tim | TechWithTim | https://www.techwithtim.net/ | youtube, python, javascript, react, tutorials, machine learning |
+| David | David.webdev | https://linktr.ee/davidwebdev | instagram,reels, frontend, react, UI/UX | 
 
 ## UI/UX Design
 
