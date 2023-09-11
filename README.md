@@ -50,7 +50,18 @@
 | Name | Channel Name | Website(link) | Keywords |
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | DataCamp | DataCamp | https://www.datacamp.com/ | data, data science, data analysis, E-learning |
-| Josh | StatQuest with Josh Starmer | https://www.statquest.org/ | Statistics, Data Science | 
+| Josh | StatQuest with Josh Starmer | https://www.statquest.org/ | Statistics, Data Science |
+| Alex | Alex The Analyst | https://www.youtube.com/@AlexTheAnalyst | youtube, data analysis |
+| Luke | Luke Barousse | https://www.youtube.com/@LukeBarousse | Youtube, Data Analysis | 
+| Ken | Ken Jee | https://www.youtube.com/@KenJee_ds | Ai, Machine Learning, data analytics, sports analytics |
+| Dataiku | Recall by Dataiku | https://www.youtube.com/@RecallbyDataiku | Ai, data analytics, content strategy | 
+| Tina | Tina Huang | https://www.youtube.com/@TinaHuang1 | Meta, self-study, data analytics, data science, tech |
+| freeCodeCamp | freeCodeCamp | https://www.freecodecamp.org/ | youtube, tutorials, certifications, online courses |
+| Guy in a Cube | Guy in a Cube | https://www.youtube.com/@GuyInACube | youtube, tutorials, data, powerBI, microsoft data platform, azure |
+| kudvenkat | kudvenkat | https://www.youtube.com/@Csharp-video-tutorialsBlogspot | education, tutorials, data science | 
+| Josh | StatQuest with Josh Starmer | https://www.statquest.org/ | Statistics, Data Science, Machine Learning |
+| ExcellsFun | ExcellsFun | https://www.youtube.com/@excelisfun | Excel, PowerBi, educations,pdf notes, data science, data analysis |
+
 
 ## AI and Machine Learning
 
@@ -60,6 +71,7 @@
 | 2 Minute Papers | Two Minute Papers | https://www.youtube.com/user/keeroyz | Published AI,ML papers |
 | Sentdex | Sentdex | https://www.youtube.com/@sentdex | Machine Learning , Ai, Neural Networks |
 | Nicholas | Nicholas Renotte | https://www.youtube.com/@NicholasRenotte | Machine Learning, AI, DL, tutorials, projects |
+| Ken | Ken Jee | https://www.youtube.com/@KenJee_ds | Ai, Machine Learning, data analytics, sports analytics | 
 
 
 ## Game Development
